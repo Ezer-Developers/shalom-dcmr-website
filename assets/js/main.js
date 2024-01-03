@@ -1,4 +1,10 @@
-
+/* ===================================================================
+    
+    Author          : Valid Theme
+    Template Name   : DCMR - Fundraising & Charity Template
+    Version         : 1.0
+    
+* ================================================================= */
 
 (function($) {
     "use strict";
